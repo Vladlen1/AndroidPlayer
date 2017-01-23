@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    >
+
+    <item
+        android:id="@+id/menus"
+        android:title="Popular songs"
+        android:icon="@drawable/down"
+        app:showAsAction="always">
+
+    </item>
+
+    <item
+        android:id="@+id/menus_2"
+        android:title="Not popular"
+        android:icon="@drawable/ic_action_name"
+        app:showAsAction="always">
+    </item>
+
+</menu>
